@@ -1,4 +1,5 @@
 # Colaboradores del Proyecto
 
 - Lenin Mazabanda
-- Jesús Rodríguez 
+- Jesús Rodríguez
+- Jair Mera 
