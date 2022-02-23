@@ -2,4 +2,6 @@
 
 - Lenin Mazabanda
 - Jesús Rodríguez
-- Jair Mera 
+- Jair Mera
+- Hamilton Jumbo
+- Emilia Galarza
