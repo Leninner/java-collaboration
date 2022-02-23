@@ -15,6 +15,9 @@ public class BubbleSort {
       numbers[i] = scan.nextInt();
     }
 
+    // Bubble sort
+    // Menor a mayor
+
     for (int i = 0; i < numbers.length - 1; i++) {
       for (int j = 0; j < numbers.length - 1; j++) {
         if (numbers[j] > numbers[j + 1]) {
@@ -24,6 +27,18 @@ public class BubbleSort {
         }
       }
     }
+
+    // Mayor a menor
+
+    // for (int i = 0; i < numbers.length - 1; i++) {
+    // for (int j = 0; j < numbers.length - 1; j++) {
+    // if (numbers[j] < numbers[j + 1]) {
+    // aux = numbers[j + 1];
+    // numbers[j + 1] = numbers[j];
+    // numbers[j] = aux;
+    // }
+    // }
+    // }
 
     System.out.println("¿Qué número quiéres buscar?");
     int busqueda = scan.nextInt();
