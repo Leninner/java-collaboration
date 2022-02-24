@@ -4,7 +4,7 @@ public class edades_estaturas {
         int edad = 0;
         float estatura = 0, medad = 0, mestatura = 0, s_estatura = 0;
         int contador18 = 0; int contador_altura = 0; int s_edad = 0;
-        try (Scanner scan = new Scanner(System.in)) {
+        Scanner scan = new Scanner(System.in);
             for(int i = 0;i  < 5; i ++){
                 System.out.println("Ingresa la edad(solo números, Ejm: 18): ");
                 edad = scan.nextInt();
@@ -19,8 +19,7 @@ public class edades_estaturas {
                     contador_altura ++;
                 } 
             }
-        }
-
+            scan.close();
 
             medad = s_edad / 5;
         mestatura = s_estatura / 5;
