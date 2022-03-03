@@ -1,70 +1,27 @@
-<!-- Please update value in the {}  -->
+# Titulo uno
 
-<h1 align="center">Java Exercises</h1>
+Cómo hacer un Hola Mundo en JAVA
 
-<div align="center">
-  Solutions for many challenges done with <strong>Java</strong>
-</div>
+```java
+System.out.println("Hola mundo");
+```
 
-<div align="center">
-  <h3>
-    <a href="https://shoppingify-project.vercel.app/">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Leninner/shoppingify-list">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x">
-      Challenge
-    </a>
-  </h3>
-</div>
+1. Hola
+2. Mundo
+3. Como
+4. Están
 
-<!-- TABLE OF CONTENTS -->
+- Hola
+- Lenin
 
-## Table of Contents
+> Esto es una nota
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [How To Use](#how-to-use)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
-- [Colaboradores del Proyecto](#colaboradores-del-proyecto)
+## Titulo dos
 
-<!-- OVERVIEW -->
+### Titulo tres
 
-## Overview
+#### Titulo cuatro
 
-![screenshot]()
+##### Titulo cinco
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
-
-### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [Java SE](https://www.oracle.com/java/java-se-subscription/)
-
-
-## Colaboradores del Proyecto
-
-- Lenin Mazabanda
-- Jesús Rodríguez
-- Jair Mera
-- Hamilton Jumbo
-- Emilia Galarza
-
-## How To Use
-
-## Acknowledgements
-
-## Contact
-
+###### Titulo seis
