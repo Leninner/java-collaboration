@@ -1,27 +1,61 @@
-# Titulo uno
+**ÍNDICE**
 
-Cómo hacer un Hola Mundo en JAVA
+- [Introducción a Java](#introducción-a-java)
+  - [Tipos de Datos](#tipos-de-datos)
+- [Creación de programas en Java](#creación-de-programas-en-java)
+- [Solicitar un ingreso al usuario](#solicitar-un-ingreso-al-usuario)
+  - [Scanner](#scanner)
+  - [JOptionPane](#joptionpane)
+
+# Introducción a Java
+
+¿Qué es Java?
+¿Para qué sirve?
+
+## Tipos de Datos
+
+- Primitivos
+- No primitivos
+
+# Creación de programas en Java
+
+Para poder crear un programa en Java, primero debemos **crear una clase**. Para nombrar las clases, tenemos varias reglas:
+
+1. Debe ser nombrada de **igual** forma **que el archivo** en el que está siendo creada
+2. No debe tener espacios de por medio
+3. Debe estar en **CamelCase**
+
+- Ejemplo de una clase llamada `HolaMundo`
 
 ```java
-System.out.println("Hola mundo");
+// El nombre del archivo es HolaMundo.java
+
+public class HolaMundo {
+
+}
 ```
 
-1. Hola
-2. Mundo
-3. Como
-4. Están
+Luego debemos añadirle un **método** `main` que se va a **ejecutar cuando se ejecute el programa**. La sintaxis del método `main` es la siguiente:
 
-- Hola
-- Lenin
+```java
+// Método main o principal
+public static void main(String[] args) {
+    System.out.println("Hola Mundo");
+}
+```
 
-> Esto es una nota
+Finalmente, nuestro programa quedaría de la siguiente forma, lo ejecutamos y vamos a poder leer `Hola Mundo` en la terminal:
 
-## Titulo dos
+```java
+public class HolaMundo {
+    public static void main(String[] args) {
+        System.out.println("Hola Mundo");
+    }
+}
+```
 
-### Titulo tres
+# Solicitar un ingreso al usuario
 
-#### Titulo cuatro
+## Scanner
 
-##### Titulo cinco
-
-###### Titulo seis
+## JOptionPane
