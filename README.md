@@ -3,9 +3,14 @@
 - [Introducción a Java](#introducción-a-java)
   - [Tipos de Datos](#tipos-de-datos)
 - [Creación de programas en Java](#creación-de-programas-en-java)
-- [Solicitar un ingreso al usuario](#solicitar-un-ingreso-al-usuario)
+- [Entrada y salida de datos](#entrada-y-salida-de-datos)
   - [Scanner](#scanner)
   - [JOptionPane](#joptionpane)
+- [Operadores](#operadores)
+  - [Aritméticos](#aritméticos)
+  - [Lógicos](#lógicos)
+  - [Relacionales](#relacionales)
+- [Clase Math](#clase-math)
 
 # Introducción a Java
 
@@ -54,8 +59,18 @@ public class HolaMundo {
 }
 ```
 
-# Solicitar un ingreso al usuario
+# Entrada y salida de datos
 
 ## Scanner
 
 ## JOptionPane
+
+# Operadores
+
+## Aritméticos
+
+## Lógicos
+
+## Relacionales
+
+# Clase Math
