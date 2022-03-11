@@ -30,4 +30,3 @@ public class matrices {
     }
 }
 
-//comprobrar que una matriz sea simetrica o no 
