@@ -22,6 +22,19 @@
 - Primitivos
 - No primitivos
 
+### Datos Primitivos
+
+Existen 8 tipos de datos primitivos en Java:
+
+- char => Puede almacenar un solo caractér y se lo declara con comillas simples ''
+- boolean => Puede tomar el valor de true or false
+- byte => is an 8-bit signed integer.
+- short => is a 16-bit signed integer.
+- int => is a 32-bit signed integer.
+- long => is a 64-bit signed integer.
+- float 
+- double
+
 # Creación de programas en Java
 
 Para poder crear un programa en Java, primero debemos **crear una clase**. Para nombrar las clases, tenemos varias reglas:
